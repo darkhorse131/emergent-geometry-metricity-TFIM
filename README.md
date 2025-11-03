@@ -1,6 +1,6 @@
 Reproducibility README — TFIM (JW+BdG, OBC) MI & FSS pipeline
 
-This repository accompanies the PRB submission. It contains an **exact** TFIM solver (Jordan–Wigner + BdG) and the **post‑processing/analysis pipeline**. It establishes:
+This repository accompanies the submission. It contains an **exact** TFIM solver (Jordan–Wigner + BdG) and the **post‑processing/analysis pipeline**. It establishes:
 - Two‑mode JW **mutual information** `I(r)` in **nats**
 - Emergent distance `d_E(r) = I(r)^(-1/2)`
 - Robust **exponent fits** `I(r) \sim r^{-X}` and off‑critical **correlation length** `\xi`
