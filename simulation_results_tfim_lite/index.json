@@ -1,0 +1,64 @@
+{
+  "runs": [
+    {
+      "file": "lite_results_L1024_H0p5.json",
+      "L": 1024,
+      "h": 0.5
+    },
+    {
+      "file": "lite_results_L1024_H1p0.json",
+      "L": 1024,
+      "h": 1.0
+    },
+    {
+      "file": "lite_results_L1024_H2p0.json",
+      "L": 1024,
+      "h": 2.0
+    },
+    {
+      "file": "lite_results_L2048_H0p5.json",
+      "L": 2048,
+      "h": 0.5
+    },
+    {
+      "file": "lite_results_L2048_H1p0.json",
+      "L": 2048,
+      "h": 1.0
+    },
+    {
+      "file": "lite_results_L2048_H2p0.json",
+      "L": 2048,
+      "h": 2.0
+    },
+    {
+      "file": "lite_results_L256_H0p5.json",
+      "L": 256,
+      "h": 0.5
+    },
+    {
+      "file": "lite_results_L256_H1p0.json",
+      "L": 256,
+      "h": 1.0
+    },
+    {
+      "file": "lite_results_L256_H2p0.json",
+      "L": 256,
+      "h": 2.0
+    },
+    {
+      "file": "lite_results_L512_H0p5.json",
+      "L": 512,
+      "h": 0.5
+    },
+    {
+      "file": "lite_results_L512_H1p0.json",
+      "L": 512,
+      "h": 1.0
+    },
+    {
+      "file": "lite_results_L512_H2p0.json",
+      "L": 512,
+      "h": 2.0
+    }
+  ]
+}

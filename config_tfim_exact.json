@@ -1,0 +1,16 @@
+{
+  "output_directory": "simulation_results_tfim_gold_master",
+  "model": "TFIM_EXACT_OBC",
+  "J": 1.0,
+  "h_values_to_run": [1.0, 0.5, 2.0],
+  "L_values": [256, 512, 1024, 2048],
+  "analysis_params": {
+    "r_max_factor": 0.5,
+    "fit_r_min": 12,
+    "fit_r_max_factor": 0.7,
+    "fit_r_max_cap": 256,
+    "mi_floor": 1e-12,
+    "bulk_trim_fraction": 0.15,
+    "fit_method": "wls"
+  }
+}
